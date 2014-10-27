@@ -1,0 +1,11 @@
+Source: r-cran-mkmisc
+Section: misc
+Priority: optional
+Maintainer: Matthias Kohl <Matthias.Kohl at stamats.de>
+Build-Depends: r-base (>= 2.14)
+ 
+Package: r-cran-mkmisc
+Architecture: all
+Depends: r-base (>= 2.14), stats, graphics
+Description: Miscellaneous Functions from M. Kohl
+ Miscellaneous Functions from M. Kohl

@@ -1,0 +1,6 @@
+r-cran-mkmisc (0.96-1) lucid; urgency=low
+
+  * Debian Packaging for mkmisc.
+
+ -- Avinash Ramu <aramu@genome.wustl.edu>  Mon, 27 Oct 2014 16:11:02 -0500
+
