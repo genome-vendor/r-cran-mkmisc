@@ -6,6 +6,6 @@ Build-Depends: r-base (>= 2.14)
  
 Package: r-cran-mkmisc
 Architecture: all
-Depends: r-base (>= 2.14), stats, graphics
+Depends: r-base (>= 2.14)
 Description: Miscellaneous Functions from M. Kohl
  Miscellaneous Functions from M. Kohl
