@@ -2,10 +2,10 @@ Source: r-cran-mkmisc
 Section: misc
 Priority: optional
 Maintainer: Matthias Kohl <Matthias.Kohl at stamats.de>
-Build-Depends: r-base (>= 2.14), cdbs
+Build-Depends: r-base (>= 2.14), cdbs, r-base-dev, r-cran-rcolorbrewer, r-cran-robustbase
  
 Package: r-cran-mkmisc
 Architecture: all
-Depends: r-base (>= 2.14)
+Depends: r-base (>= 2.14), r-cran-rcolorbrewer, r-cran-robustbase
 Description: Miscellaneous Functions from M. Kohl
  Miscellaneous Functions from M. Kohl
