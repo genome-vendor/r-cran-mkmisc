@@ -1,3 +1,9 @@
+r-cran-mkmisc (0.96-3) lucid; urgency=low
+
+  * fix build errors
+
+ -- Avinash Ramu <aramu@genome.wustl.edu>  Mon, 30 Oct 2014 13:57:02 -0500
+
 r-cran-mkmisc (0.96-2) lucid; urgency=low
 
   * remove incorrect dependencies.
