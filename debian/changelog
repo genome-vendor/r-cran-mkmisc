@@ -1,3 +1,15 @@
+r-cran-mkmisc (0.96-5) lucid; urgency=low
+
+  * Forgot r-cran-robustbase version pin in the Depends section
+
+ -- Anthony Brummett <abrummet@genome.wustl.edu>  Fri, 31 Oct 2014 11:46:02 -0500
+
+r-cran-mkmisc (0.96-4) lucid; urgency=low
+
+  * r-cran-robustbase requires a specific version in our environment
+
+ -- Anthony Brummett <abrummet@genome.wustl.edu>  Fri, 31 Oct 2014 11:27:02 -0500
+
 r-cran-mkmisc (0.96-3) lucid; urgency=low
 
   * fix build errors
