@@ -6,6 +6,6 @@ Build-Depends: r-base (>= 2.14), cdbs, r-base-dev, r-cran-rcolorbrewer, r-cran-r
  
 Package: r-cran-mkmisc
 Architecture: all
-Depends: r-base (>= 2.14), r-cran-rcolorbrewer, r-cran-robustbase
+Depends: r-base (>= 2.14), r-cran-rcolorbrewer, r-cran-robustbase (= 0.5-0-1-1)
 Description: Miscellaneous Functions from M. Kohl
  Miscellaneous Functions from M. Kohl
